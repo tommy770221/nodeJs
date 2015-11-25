@@ -1,0 +1,25 @@
+{
+  "name": "NodeStart",
+  "version": "0.1.0",
+  "description": "NodeStart",
+  "main": "hello-world-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies":{
+	  "mysql": "^2.9.0"
+  },
+  "bin":{
+	  "module-name":"./node_modules"
+  }
+  
+}
