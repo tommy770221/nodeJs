@@ -16,6 +16,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies":{
+	  "connect" : "2.28.2",  
 	  "mysql": "^2.9.0"
   },
   "bin":{
